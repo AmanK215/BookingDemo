@@ -25,6 +25,11 @@ const ItemCard = props => {
         resizeMode={'cover'}
         source={images[item['img']]}
       />
+
+      <Image
+        source={require('../../../Images/expand.png')}
+        style={styles.expand}
+      />
       <View style={styles.textStyle}>
         <LinearGradient
           colors={['rgba(255, 255, 255, 0.77)', 'rgba(255, 255, 255, 0.29)']}

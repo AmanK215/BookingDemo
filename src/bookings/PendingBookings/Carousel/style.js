@@ -29,6 +29,11 @@ const styles = StyleSheet.create({
     fontSize: 10,
     lineHeight: 18,
     color: 'rgba(0, 0, 0, 1)'
+  },
+  expand: {
+    position:'absolute',
+    top: 190,
+    right: 10
   }
 })
 
