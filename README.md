@@ -19,6 +19,8 @@ Steps to run App
 
 
 App's HomeScreen
+
+
 <img width="347" alt="Screenshot 2022-09-04 at 10 06 36 PM" src="https://user-images.githubusercontent.com/112815537/188323915-19e3129e-ceb1-455d-9d4e-764f841518c8.png">
 
 
