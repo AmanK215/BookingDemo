@@ -1,4 +1,4 @@
-# StanzaLivProject
+# BookingDemo
 
 Used Configurations:-
 Node Version: 14.15.1
